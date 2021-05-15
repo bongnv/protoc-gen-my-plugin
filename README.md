@@ -1,2 +1,2 @@
 # protoc-gen-my-plugin
-An example of protoc plugin
+An example of a protoc plugin
